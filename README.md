@@ -1,5 +1,7 @@
 # ASDNetworkAnalysisReddit
 
+#### Course 096693 Technion - Cognitive and Psychological Networks
+
 ### Background:
 
 Autism Spectrum Disorder (ASD) encompasses neurodevelopmental disorders characterized by atypical brain connectivity and impaired or atypical language abilities in most affected children. Despite the wide variation in language skills, the underlying brain mechanisms of ASDs remain incompletely understood. Individuals with ASD exhibit challenges in social communication, repetitive behaviors, and unique cognitive organization patterns, particularly in language and semantic processing. They often display a preference for concrete language, encounter difficulties with abstract concepts, and exhibit a strong focus on specific interests, resulting in atypical language usage. Gaining an understanding of the cognitive organization of words in individuals with ASD is essential for comprehending their distinct information processing styles and furthering our knowledge of neurodiversity. 
