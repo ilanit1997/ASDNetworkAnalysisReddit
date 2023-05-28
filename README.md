@@ -35,7 +35,7 @@ Our research question aims to understand – “how the cognitive linguistic net
 ### Hypothesis:
 Given the broad range of the autistic spectrum and the potential variations within it, our hypothesis considers the diverse nature of autistic individuals' behavior and thinking. Nonetheless, we hypothesize that there are differences in the distributions of centrality metrics and degrees. 
 We anticipate that the distribution of posts from autistic individuals will exhibit:
--	A lower standard deviation over all metrics 
+-	A higher standard deviation over all metrics 
 -	A lower average degree
 -	Smaller graph diameter 
 
